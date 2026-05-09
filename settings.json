@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "OutdatedXplayz-rM6O.aternos.me:12631",
+    "port": 12631,
     "version": "1.21.1"
   },
   "position": {
